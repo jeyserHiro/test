@@ -1,1 +1,1 @@
-console.log("CI_TEST_1")
+console.log("CI_TEST_2")
